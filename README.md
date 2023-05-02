@@ -18,7 +18,10 @@ This repository is the official Pytorch implementation DEMO of **FedCache**:
 
 -------
 
-## Citing this work:
+## Cite this work
 ```bibtex
 Coming soon...
 ```
+
+## Thanks
+We thank Xuefeng Jiang for his guidance and suggestions on this repository.
