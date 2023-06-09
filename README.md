@@ -20,8 +20,17 @@ This repository is the official Pytorch implementation DEMO of **FedCache**:
 
 ## Cite this work
 ```bibtex
-Coming soon...
+@article{wu2023fedcache,
+author = "Zhiyuan Wu and Sheng Sun and Yuwei Wang and Min Liu and Xuefeng Jiang and Bo Gao and Jinda Lu",
+title = "{FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence}",
+year = "2023",
+month = "6",
+url = "https://www.techrxiv.org/articles/preprint/FedCache_A_Knowledge_Cache-driven_Federated_Learning_Architecture_for_Personalized_Edge_Intelligence/23255420",
+doi = "10.36227/techrxiv.23255420.v1"
+}
 ```
+
+-------
 
 ## Thanks
 We thank Xuefeng Jiang for his guidance and suggestions on this repository.
