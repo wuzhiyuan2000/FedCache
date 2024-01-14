@@ -4,9 +4,9 @@ This repository is the official Pytorch implementation DEMO of **FedCache**:
 
 [FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence.](https://arxiv.org/abs/2308.07816) *IEEE Transactions on Mobile Computing (TMC)*. 2024 (Major Revision)
 
-### Highlight！！！
+### Highlight!!!
 
-- FedCache is a device friendly, scalable and effective personalized federated learning architecture tailored for edge computing. 
+- FedCache is a device **friendly, scalable and effective** personalized federated learning architecture tailored for edge computing. 
 - FedCache guarantees satisfactory performance while conforming to multiple personalized devices-side limitations.
 - FedCache **improves communication efficiency by up to x200 over previous architectures** and can accommodate heterogeneous devices and asynchronous interactions among devices and the server.
 
