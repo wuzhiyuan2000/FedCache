@@ -4,21 +4,27 @@ This repository is the official Pytorch implementation DEMO of **FedCache**:
 
 [FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence.](https://arxiv.org/abs/2308.07816) *IEEE Transactions on Mobile Computing (TMC)*. 2024 (Major Revision)
 
-## FedCache Family
+### Highlight！！！
 
-- **Foundation Works:** [FedICT](https://ieeexplore.ieee.org/abstract/document/10163770/), [FedDKC](https://dl.acm.org/doi/10.1145/3639369), [FD](https://arxiv.org/abs/1811.11479), [DS-FL](https://ieeexplore.ieee.org/abstract/document/9392310), [FedMD](https://arxiv.org/abs/1910.03581) 
+- FedCache is a device friendly, scalable and effective personalized federated learning architecture tailored for edge computing. 
+- FedCache guarantees satisfactory performance while conforming to multiple personalized devices-side limitations.
+- FedCache **improves communication efficiency by up to x200 over previous architectures** and can accommodate heterogeneous devices and asynchronous interactions among devices and the server.
+
+## Family of FedCache
+
+- **Foundation Works:** [FedICT](https://ieeexplore.ieee.org/abstract/document/10163770/), [FedDKC](https://dl.acm.org/doi/10.1145/3639369), [MTFL](https://ieeexplore.ieee.org/abstract/document/9492755), [DS-FL](https://ieeexplore.ieee.org/abstract/document/9392310), [FD](https://arxiv.org/abs/1811.11479)
 - **Derivative Works:**
   - Communication: [ALU](https://arxiv.org/abs/2312.04166)
   - Poisoning Attack: [FDLA](https://arxiv.org/abs/2401.03685)
-  - Generalization: Coming Soon...
-  - Security: Coming Soon...
-  - Applications: Coming Soon...
+  - Generalization: Coming Soon......
+  - Security: Coming Soon......
+  - Application: Coming Soon......
   - Scaling: TBD
   - Robustness: TBD
   - Fairness: TBD
   - Deployment: TBD
 
-**If you have any ideas or questions about FedCache, please feel free to contact wuzhiyuan22s@ict.ac.cn.**
+**If you have any ideas or questions regarding to FedCache, please feel free to contact wuzhiyuan22s@ict.ac.cn.**
 
 ## Requirements
 
