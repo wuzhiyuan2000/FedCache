@@ -2,7 +2,7 @@
 
 This repository is the official Pytorch implementation DEMO of **FedCache**:
 
-[FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence.](https://arxiv.org/abs/2308.07816) *IEEE Transactions on Mobile Computing (TMC)*. 2023 (Major Revision)
+[FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence.](https://arxiv.org/abs/2308.07816) *IEEE Transactions on Mobile Computing (TMC)*. 2024 (Major Revision)
 
 ## FedCache Family
 
