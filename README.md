@@ -42,7 +42,7 @@ This repository is the official Pytorch implementation DEMO of **FedCache**:
 
 ## Cite this work
 ```bibtex
-@article{wu2023fedcache,
+@article{wu2024fedcache,
   title={FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence},
   author={Wu, Zhiyuan and Sun, Sheng and Wang, Yuwei and Liu, Min and Xu, Ke and Wang, Wen and Jiang, Xuefeng and Gao, Bo and Lu, Jinda},
   journal={IEEE Transactions on Mobile Computing},
