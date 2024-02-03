@@ -98,7 +98,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 ### Model Heterogeneous Setting
 
-### MNIST Dataset
+#### MNIST Dataset
 
 | Method   | MAUA (%) | Communication Cost (G) | Speed-up Ratio |
 | :------- | :------- | :--------------------- | :------------- |
@@ -107,7 +107,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 | FD       | 79.90    | -                      | -              |
 | FedCache | 83.94    | **0.10**               | **×105.3**     |
 
-### FashionMNIST Dataset
+#### FashionMNIST Dataset
 
 | Method   | MAUA (%) | Communication Cost (G) | Speed-up Ratio |
 | :------- | :------- | :--------------------- | :------------- |
@@ -116,7 +116,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 | FD       | 75.57    | -                      | -              |
 | FedCache | 77.26    | **0.08**               | **×158.0**     |
 
-### CIFAR-10 Dataset
+#### CIFAR-10 Dataset
 
 | Method   | MAUA (%) | Communication Cost (G) | Speed-up Ratio |
 | :------- | :------- | :--------------------- | :------------- |
@@ -125,7 +125,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 | FD       | 40.40    | -                      | -              |
 | FedCache | 41.59    | **0.05**               | **×107.0**     |
 
-### CINIC-10 Dataset
+#### CINIC-10 Dataset
 
 | Method   | MAUA (%) | Communication Cost (G) | Speed-up Ratio |
 | :------- | :------- | :--------------------- | :------------- |
