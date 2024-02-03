@@ -1,8 +1,16 @@
 # FedCache
 
-This repository is the official Pytorch implementation DEMO of **FedCache**:
+This repository is the official Pytorch implementation DEMO of [**FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence.**](https://arxiv.org/abs/2308.07816) ***IEEE Transactions on Mobile Computing (TMC)*. 2024**
 
-[FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence.](https://arxiv.org/abs/2308.07816) *IEEE Transactions on Mobile Computing (TMC)*. 2024
+### News!!!
+
+[Feb. 2024] Our FedCache is accepted by *IEEE Transactions on Mobile Computing (TMC)*.
+
+[Jan. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. Access the full text [here](https://arxiv.org/abs/2401.03685).
+
+[Dec. 2023] One follow-up paper confirms the further potential of FedCache for enhanced communication efficiency by accumulating local updates. Access the full text [here](https://arxiv.org/abs/2312.04166).
+
+[Aug. 2023] Our FedCache is released on arxiv. Access the full text [here](https://arxiv.org/abs/2308.07816).
 
 ### Highlight!!!
 
@@ -10,7 +18,7 @@ This repository is the official Pytorch implementation DEMO of **FedCache**:
 - FedCache guarantees satisfactory performance while conforming to multiple personalized devices-side limitations.
 - FedCache **improves communication efficiency by up to x200 over previous architectures** and can accommodate heterogeneous devices and asynchronous interactions among devices and the server.
 
-## Family of FedCache
+### Family of FedCache
 
 - **Foundation Works:** [FedICT](https://ieeexplore.ieee.org/abstract/document/10163770/), [FedDKC](https://dl.acm.org/doi/10.1145/3639369), [MTFL](https://ieeexplore.ieee.org/abstract/document/9492755), [DS-FL](https://ieeexplore.ieee.org/abstract/document/9392310), [FD](https://arxiv.org/abs/1811.11479)
 - **Derivative Works:**
