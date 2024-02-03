@@ -6,13 +6,13 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 [Feb. 2024] Our FedCache is accepted by *IEEE Transactions on Mobile Computing (TMC)*.
 
-[Jan. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. Access the full text [here](https://arxiv.org/abs/2401.03685).
+[Jan. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. Access [here](https://arxiv.org/abs/2401.03685).
 
 [Dec. 2023] We discover a Chinese blog that interprets FedCache on CSDN. Access [here](https://blog.csdn.net/weixin_51306020/article/details/134983174).
 
-[Dec. 2023] One follow-up paper confirms the further potential of FedCache for enhanced communication efficiency by accumulating local updates. Access the full text [here](https://arxiv.org/abs/2312.04166).
+[Dec. 2023] One follow-up paper confirms the further potential of FedCache for enhanced communication efficiency by accumulating local updates. Access [here](https://arxiv.org/abs/2312.04166).
 
-[Aug. 2023] Our FedCache is released on arxiv. Access the full text [here](https://arxiv.org/abs/2308.07816).
+[Aug. 2023] Our FedCache is released on arxiv. Access [here](https://arxiv.org/abs/2308.07816).
 
 ## Highlight
 
