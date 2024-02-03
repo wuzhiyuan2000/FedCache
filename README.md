@@ -161,7 +161,3 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 [Federated Class-Incremental Learning with New-Class Augmented Self-Distillation.](https://arxiv.org/abs/2401.00622) *arXiv preprint arXiv:2401.00622.* 2024
 
 [Survey of Knowledge Distillation in Federated Edge Learning.](https://arxiv.org/abs/2301.05849) *arXiv preprint arXiv:2301.05849.* 2023
-
-## Thanks
-
-We thank Xuefeng Jiang for his guidance and suggestions on this repository.
