@@ -4,7 +4,9 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 ## News
 
-[Feb. 2024] Our FedCache is accepted by *IEEE Transactions on Mobile Computing (TMC)*.
+[Feb. 2024] FedCache is featured by Phoenix Tech. Access [here](https://tech.ifeng.com/c/8XWFF2U3YWJ).
+
+[Feb. 2024] Our FedCache is accepted by *IEEE Transactions on Mobile Computing (TMC)*. Access [here](https://ieeexplore.ieee.org/document/10420495).
 
 [Jan. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. Access [here](https://arxiv.org/abs/2401.03685).
 
@@ -29,7 +31,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
   - Generalization: Coming Soon......
   - Security: Coming Soon......
   - Application: Coming Soon......
-  - Robustness: Coming Soon......
+  - Robustness: TBD
   - Scaling: TBD
   - Fairness: TBD
   - Deployment: TBD
