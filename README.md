@@ -141,13 +141,17 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 ## Cite this work
 
 ```bibtex
-@article{wu2024fedcache,
-  title={FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence},
+@ARTICLE{wu2024fedcache,
   author={Wu, Zhiyuan and Sun, Sheng and Wang, Yuwei and Liu, Min and Xu, Ke and Wang, Wen and Jiang, Xuefeng and Gao, Bo and Lu, Jinda},
-  journal={IEEE Transactions on Mobile Computing},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={FedCache: A Knowledge Cache-Driven Federated Learning Architecture for Personalized Edge Intelligence}, 
   year={2024},
-  publisher={IEEE}
-}
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Computer architecture;Training;Servers;Computational modeling;Data models;Adaptation models;Performance evaluation;Communication efficiency;distributed architecture;edge computing;knowledge distillation;personalized federated learning},
+  doi={10.1109/TMC.2024.3361876}
+  }
 ```
 
 -------
@@ -158,7 +162,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 [Agglomerative Federated Learning: Empowering Larger Model Training via End-Edge-Cloud Collaboration.](https://arxiv.org/abs/2312.11489) *IEEE International Conference on Computer Communications (INFOCOM).* 2024
 
-[Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation.](https://dl.acm.org/doi/10.1145/3639369) *ACM Transactions on Intelligent Systems and Technology (TIST)*. 2023
+[Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation.](https://dl.acm.org/doi/10.1145/3639369) *ACM Transactions on Intelligent Systems and Technology (TIST)*. 2024
 
 [Federated Class-Incremental Learning with New-Class Augmented Self-Distillation.](https://arxiv.org/abs/2401.00622) *arXiv preprint arXiv:2401.00622.* 2024
 
