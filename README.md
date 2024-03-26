@@ -4,9 +4,9 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 ## News
 
-[Mar. 2024] FedCache is featured by Tencent. Access [here](https://new.qq.com/rain/a/20240304A07LGW00).
+[Mar. 2024] FedCache is featured by Tencent. [**机器人再度大幅进化！阿西莫夫三法则还有效吗？(Robots are Evolving Dramatically Again! Is Asimov's  "Three Laws of Robotics" Still Valid?)**](https://new.qq.com/rain/a/20240304A07LGW00).
 
-[Feb. 2024] FedCache is featured by Phoenix Tech. Access [here](https://tech.ifeng.com/c/8XWFF2U3YWJ).
+[Feb. 2024] FedCache is featured by Phoenix Tech.  [**缓存驱动联邦学习架构来了！专为个性化边缘智能打造 (The Cache-Driven Federated Learning Architecture is Coming! Built for Personalized Edge Intelligence)**](https://tech.ifeng.com/c/8XWFF2U3YWJ).
 
 [Feb. 2024] Our FedCache is accepted by *IEEE Transactions on Mobile Computing (TMC)*. Access [here](https://ieeexplore.ieee.org/document/10420495).
 
@@ -16,7 +16,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 [Dec. 2023] One follow-up paper confirms the further potential of FedCache for enhanced communication efficiency by accumulating local updates. Access [here](https://arxiv.org/abs/2312.04166).
 
-[Aug. 2023] FedCache is featured by Netease. Access [here](https://www.163.com/dy/article/ICBT597O0553CPGV.html).
+[Aug. 2023] FedCache is featured by Netease. [**AI在量子计算中的研究进展 (Research Progress of AI in Quantum Computing)**](https://www.163.com/dy/article/ICBT597O0553CPGV.html).
 
 [Aug. 2023] Our FedCache is released on arxiv. Access [here](https://arxiv.org/abs/2308.07816).
 
