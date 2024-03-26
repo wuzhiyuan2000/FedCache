@@ -6,9 +6,13 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 [Mar. 2024] FedCache is featured by Tencent. [**机器人再度大幅进化！阿西莫夫三法则还有效吗？(Robots are Evolving Dramatically Again! Is Asimov's  "Three Laws of Robotics" Still Valid?)**](https://new.qq.com/rain/a/20240304A07LGW00).
 
-[Feb. 2024] FedCache is featured by Phoenix Tech.  [**缓存驱动联邦学习架构来了！专为个性化边缘智能打造 (The Cache-Driven Federated Learning Architecture is Coming! Built for Personalized Edge Intelligence)**](https://tech.ifeng.com/c/8XWFF2U3YWJ).
+[Mar. 2024] FedCache is featured by NGUI. [**缓存驱动联邦学习架构赋能个性化边缘智能 (Cache-Driven Federated Learning Architecture Energizes Personalized Edge Intelligence)**](https://www.ngui.cc/article/show-1910217.html?action=onClick) .
 
-[Feb. 2024] Our FedCache is accepted by *IEEE Transactions on Mobile Computing (TMC)*. Access [here](https://ieeexplore.ieee.org/document/10420495).
+[Mar. 2024] FedCache is included by the first survey investigating the application of knowledge distillation in federated edge learning. Access [here](https://arxiv.org/abs/2301.05849).
+
+[Feb. 2024] FedCache is featured on Phoenix Tech.  [**缓存驱动联邦学习架构来了！专为个性化边缘智能打造 (The Cache-Driven Federated Learning Architecture is Coming! Built for Personalized Edge Intelligence)**](https://tech.ifeng.com/c/8XWFF2U3YWJ).
+
+[Feb. 2024] FedCache is accepted by *IEEE Transactions on Mobile Computing (TMC)*. Access [here](https://ieeexplore.ieee.org/document/10420495).
 
 [Jan. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. Access [here](https://arxiv.org/abs/2401.03685).
 
@@ -18,7 +22,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 [Aug. 2023] FedCache is featured by Netease. [**AI在量子计算中的研究进展 (Research Progress of AI in Quantum Computing)**](https://www.163.com/dy/article/ICBT597O0553CPGV.html).
 
-[Aug. 2023] Our FedCache is released on arxiv. Access [here](https://arxiv.org/abs/2308.07816).
+[Aug. 2023] FedCache is released on arxiv. Access [here](https://arxiv.org/abs/2308.07816).
 
 ## Highlight
 
