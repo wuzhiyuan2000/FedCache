@@ -4,6 +4,8 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 ## News
 
+[Mar. 2024] FedCache is featured by Tencent. Access [here](https://new.qq.com/rain/a/20240304A07LGW00).
+
 [Feb. 2024] FedCache is featured by Phoenix Tech. Access [here](https://tech.ifeng.com/c/8XWFF2U3YWJ).
 
 [Feb. 2024] Our FedCache is accepted by *IEEE Transactions on Mobile Computing (TMC)*. Access [here](https://ieeexplore.ieee.org/document/10420495).
@@ -13,6 +15,8 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 [Dec. 2023] We discover a Chinese blog that interprets FedCache on CSDN. Access [here](https://blog.csdn.net/weixin_51306020/article/details/134983174).
 
 [Dec. 2023] One follow-up paper confirms the further potential of FedCache for enhanced communication efficiency by accumulating local updates. Access [here](https://arxiv.org/abs/2312.04166).
+
+[Aug. 2023] FedCache is featured by Netease. Access [here](https://www.163.com/dy/article/ICBT597O0553CPGV.html).
 
 [Aug. 2023] Our FedCache is released on arxiv. Access [here](https://arxiv.org/abs/2308.07816).
 
