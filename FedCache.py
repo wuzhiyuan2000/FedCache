@@ -44,7 +44,7 @@ class KnowledgeCache:
             self.add_hash_single(k_,l_,i_)
 
     def add_hash_single(self,hash,label,idx):
-        self.cache[int(label)][idx]=torch.Tensor(np.array([1.0/self.n_classes for _ in range(self.n_classes)]))
+        self.cache[int(label)][idx]=torch.Tensor(np.array([0.0 for _ in range(self.n_classes)]))
         self.idx_to_hash[idx]=hash
 
     

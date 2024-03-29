@@ -6,7 +6,6 @@ https://github.com/FedML-AI/FedML
 import numpy as np
 import torch as t
 import torch.nn as nn
-import matplotlib.pyplot as plt
 from torch.nn import functional as F
 import torch
 

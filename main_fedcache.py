@@ -30,10 +30,10 @@ def add_args(parser):
                         help='how many communication round intervals to conduct testing  (default: 1)')
     parser.add_argument('--batch_size', type=int, default=8, metavar='N',
                         help='input batch size for training (default: 8)')
-    parser.add_argument('--lr', type=float, default=0.01, metavar='LR',#0.01
+    parser.add_argument('--lr', type=float, default=0.01, metavar='LR',
                         help='learning rate (default: 0.01)')
-    parser.add_argument('--client_number', type=int, default=5, metavar='NN',#400
-                        help='number of workers in a distributed cluster')
+    parser.add_argument('--client_number', type=int, default=20, metavar='NN',
+                        help='number of clients')
     parser.add_argument('--partition_alpha', type=float, default=1.0, metavar='PA',
                         help='partition alpha (default: 1.0)')
     parser.add_argument('--class_num', type=int, default=10,
