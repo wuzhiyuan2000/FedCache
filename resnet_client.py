@@ -12,7 +12,6 @@ Deep Residual Learning for Image Recognition.
   year={2016}
 }
 """
-
 import logging
 
 import torch

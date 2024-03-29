@@ -10,7 +10,6 @@ FedML: A Research Library and Benchmark for Federated Machine Learning
       primaryClass={cs.LG}
 }
 """
-
 import json
 import logging
 import os
