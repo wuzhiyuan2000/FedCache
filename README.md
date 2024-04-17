@@ -4,6 +4,8 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 ## News
 
+[Apr. 2024] FedCache's remote information retrieval has been effectively advanced and implemented by PTaaS. [**Privacy-Preserving Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems (arxiv.org)**](https://arxiv.org/abs/2404.10255).
+
 [Mar. 2024] FedCache is featured by Tencent. [**机器人再度大幅进化！阿西莫夫三法则还有效吗？(Robots are Evolving Dramatically Again! Is Asimov's  "Three Laws of Robotics" Still Valid?)**](https://new.qq.com/rain/a/20240304A07LGW00).
 
 [Mar. 2024] I was invited to give a talk for Network System and Machine Learning Group, School of Computer Science, Peking University. **[面向个性化边缘智能的缓存驱动联邦学习: 研究进展与开放性问题 (Cache-driven Federated Learning for Personalized Edge Intelligence: Research Progress and Open Problems)]()**.
