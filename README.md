@@ -16,7 +16,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 [Feb. 2024] FedCache is featured on Phoenix Tech.  [**缓存驱动联邦学习架构来了！专为个性化边缘智能打造 (The Cache-Driven Federated Learning Architecture is Coming! Built for Personalized Edge Intelligence)**](https://tech.ifeng.com/c/8XWFF2U3YWJ).
 
-[Feb. 2024] FedCache is accepted by *IEEE Transactions on Mobile Computing (TMC)*. [**FedICT: Federated Multi-task Distillation for Multi-access Edge Computing | IEEE Journals & Magazine | IEEE Xplore**](https://ieeexplore.ieee.org/document/10163770).
+[Feb. 2024] FedCache is accepted by *IEEE Transactions on Mobile Computing (TMC)*. [**FedCache: A Knowledge Cache-Driven Federated Learning Architecture for Personalized Edge Intelligence | IEEE Journals & Magazine | IEEE Xplore**](https://ieeexplore.ieee.org/document/10420495)
 
 [Jan. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. [**Logits Poisoning Attack in Federated Distillation (arxiv.org)**](https://arxiv.org/abs/2401.03685).
 
