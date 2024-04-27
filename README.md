@@ -4,7 +4,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 ## News
 
-[Apr. 2024] FedCache's remote information retrieval has been effectively advanced and implemented by PTaaS. [**Privacy-Preserving Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems (arxiv.org)**](https://arxiv.org/abs/2404.10255).
+[Apr. 2024] FedCache's remote information retrieval has been effectively advanced and implemented by PTaaS. [**Privacy-Enhanced Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems (arxiv.org)**](https://arxiv.org/abs/2404.10255).
 
 [Mar. 2024] FedCache is featured by Tencent. [**机器人再度大幅进化！阿西莫夫三法则还有效吗？(Robots are Evolving Dramatically Again! Is Asimov's  "Three Laws of Robotics" Still Valid?)**](https://new.qq.com/rain/a/20240304A07LGW00).
 
@@ -62,7 +62,11 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 ## Run this DEMO
 ```python main_fedcache.py```
 
--------
+Noting that Pytorch Dataloader in this FedCache implementation should be set as:
+
+```torch.utils.data.DataLoader(dataset=train_dataset, batch_size=train_batch_size, shuffle=False, drop_last=True)```
+
+
 
 ## Evaluation
 
@@ -176,6 +180,8 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 [Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation.](https://dl.acm.org/doi/10.1145/3639369) *ACM Transactions on Intelligent Systems and Technology (TIST)*. 2024
 
+[Privacy-Enhanced Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems.](https://arxiv.org/abs/2404.10255) *arXiv preprint arXiv:2404.10255*. 2024
+
 [Federated Class-Incremental Learning with New-Class Augmented Self-Distillation.](https://arxiv.org/abs/2401.00622) *arXiv preprint arXiv:2401.00622.* 2024
 
-[Survey of Knowledge Distillation in Federated Edge Learning.](https://arxiv.org/abs/2301.05849) *arXiv preprint arXiv:2301.05849.* 2023
+[Knowledge Distillation in Federated Edge Learning: A Survey.](https://arxiv.org/abs/2301.05849) *arXiv preprint arXiv:2301.05849.* 2023
