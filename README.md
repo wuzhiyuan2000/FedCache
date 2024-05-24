@@ -4,6 +4,8 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 ## News
 
+[Mar. 2024] We have released the second version of FedCache. [**FedCache 2.0: Exploiting the Potential of Distilled Data in Knowledge Cache-driven Federated Learning (arxiv.org**)](https://arxiv.org/abs/2405.13378)
+
 [Apr. 2024] FedCache's remote information retrieval has been effectively advanced and implemented by PTaaS. [**Privacy-Enhanced Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems (arxiv.org)**](https://arxiv.org/abs/2404.10255).
 
 [Mar. 2024] FedCache is featured by Tencent. [**机器人再度大幅进化！阿西莫夫三法则还有效吗？(Robots are Evolving Dramatically Again! Is Asimov's  "Three Laws of Robotics" Still Valid?)**](https://new.qq.com/rain/a/20240304A07LGW00).
@@ -18,7 +20,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 [Feb. 2024] FedCache is accepted by *IEEE Transactions on Mobile Computing (TMC)*. [**FedCache: A Knowledge Cache-Driven Federated Learning Architecture for Personalized Edge Intelligence | IEEE Journals & Magazine | IEEE Xplore**](https://ieeexplore.ieee.org/document/10420495)
 
-[Jan. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. [**Logits Poisoning Attack in Federated Distillation (arxiv.org)**](https://arxiv.org/abs/2401.03685).
+[Jan. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. [**Logits Poisoning Attack in Federated Distillation. *International Conference on Knowledge Science, Engineering and Management (KSEM)*. 2024**](https://arxiv.org/abs/2401.03685).
 
 [Dec. 2023] We discover a Chinese blog that interprets FedCache on CSDN. [**缓存驱动的联邦学习架构FedCache (FedCache: Cache-Driven Federated Learning Architecture)**](https://blog.csdn.net/weixin_51306020/article/details/134983174).
 
