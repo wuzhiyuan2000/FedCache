@@ -4,7 +4,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 ## News
 
-[Mar. 2024] We have released the second version of FedCache. [**FedCache 2.0: Exploiting the Potential of Distilled Data in Knowledge Cache-driven Federated Learning (arxiv.org**)](https://arxiv.org/abs/2405.13378)
+[May. 2024] We have released the second version of FedCache. [**FedCache 2.0: Exploiting the Potential of Distilled Data in Knowledge Cache-driven Federated Learning (arxiv.org**)](https://arxiv.org/abs/2405.13378)
 
 [Apr. 2024] FedCache's remote information retrieval has been effectively advanced and implemented by PTaaS. [**Privacy-Enhanced Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems (arxiv.org)**](https://arxiv.org/abs/2404.10255).
 
