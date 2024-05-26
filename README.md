@@ -42,13 +42,13 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 - **Derivative Works:**
   - Communication: [ALU](https://arxiv.org/abs/2312.04166)
   - Poisoning Attack: [FDLA](https://arxiv.org/abs/2401.03685)
-  - Generalization: Coming Soon......
+  - Generalization: [FedCache 2.0](https://arxiv.org/abs/2405.13378)
   - Security: Coming Soon......
-  - Application: Coming Soon......
+  - Application: [FedCache 2.0](https://arxiv.org/abs/2405.13378)
   - Robustness: TBD
   - Scaling: TBD
   - Fairness: TBD
-  - Deployment: TBD
+  - Deployment: Coming Soon......
 
 **If you have any ideas or questions regarding to FedCache, please feel free to contact wuzhiyuan22s@ict.ac.cn.**
 
