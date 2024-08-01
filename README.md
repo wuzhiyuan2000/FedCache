@@ -4,6 +4,8 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 ## News
 
+[Jul. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. [**Peak-Controlled Logits Poisoning Attack in Federated Distillation. *arXiv preprint arXiv:2407.18039*. 2024**](https://arxiv.org/abs/2407.18039).
+
 [May. 2024] We have released the second version of FedCache. [**FedCache 2.0: Exploiting the Potential of Distilled Data in Knowledge Cache-driven Federated Learning (arxiv.org**)](https://arxiv.org/abs/2405.13378)
 
 [Apr. 2024] FedCache's remote information retrieval has been effectively advanced and implemented by PTaaS. [**Privacy-Enhanced Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems (arxiv.org)**](https://arxiv.org/abs/2404.10255).
@@ -41,12 +43,11 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 - **Foundation Works:** [FedICT](https://ieeexplore.ieee.org/abstract/document/10163770/), [FedDKC](https://dl.acm.org/doi/10.1145/3639369), [MTFL](https://ieeexplore.ieee.org/abstract/document/9492755), [DS-FL](https://ieeexplore.ieee.org/abstract/document/9392310), [FD](https://arxiv.org/abs/1811.11479)
 - **Derivative Works:**
   - Communication: [ALU](https://arxiv.org/abs/2312.04166)
-  - Poisoning Attack: [FDLA](https://arxiv.org/abs/2401.03685)
+  - Poisoning Attack: [FDLA](https://arxiv.org/abs/2401.03685), [PCFDLA](https://arxiv.org/abs/2407.18039)
   - Generalization: [FedCache 2.0](https://arxiv.org/abs/2405.13378)
   - Security: Coming Soon......
   - Application: [FedCache 2.0](https://arxiv.org/abs/2405.13378)
   - Robustness: TBD
-  - Scaling: TBD
   - Fairness: TBD
   - Deployment: Coming Soon......
 
@@ -176,7 +177,7 @@ Noting that Pytorch Dataloader in this FedCache implementation should be set as:
 
 ## Related Works
 
-[FedICT: Federated Multi-task Distillation for Multi-access Edge Computing.](https://ieeexplore.ieee.org/abstract/document/10163770/) *IEEE Transactions on Parallel and Distributed Systems (TPDS).* 2023
+[FedICT: Federated Multi-task Distillation for Multi-access Edge Computing.](https://ieeexplore.ieee.org/abstract/document/10163770/) *IEEE Transactions on Parallel and Distributed Systems (TPDS).* 2024
 
 [Agglomerative Federated Learning: Empowering Larger Model Training via End-Edge-Cloud Collaboration.](https://arxiv.org/abs/2312.11489) *IEEE International Conference on Computer Communications (INFOCOM).* 2024
 
