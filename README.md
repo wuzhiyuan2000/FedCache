@@ -22,7 +22,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 [Feb. 2024] FedCache is accepted by *IEEE Transactions on Mobile Computing (TMC)*. [**FedCache: A Knowledge Cache-Driven Federated Learning Architecture for Personalized Edge Intelligence | IEEE Journals & Magazine | IEEE Xplore**](https://ieeexplore.ieee.org/document/10420495)
 
-[Jan. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. [**Logits Poisoning Attack in Federated Distillation. *International Conference on Knowledge Science, Engineering and Management (KSEM)*. 2024**](https://arxiv.org/abs/2401.03685).
+[Jan. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. [**Logits Poisoning Attack in Federated Distillation. *International Conference on Knowledge Science, Engineering and Management (KSEM)*. 2024**](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_22).
 
 [Dec. 2023] We discover a Chinese blog that interprets FedCache on CSDN. [**缓存驱动的联邦学习架构FedCache (FedCache: Cache-Driven Federated Learning Architecture)**](https://blog.csdn.net/weixin_51306020/article/details/134983174).
 
@@ -43,7 +43,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 - **Foundation Works:** [FedICT](https://ieeexplore.ieee.org/abstract/document/10163770/), [FedDKC](https://dl.acm.org/doi/10.1145/3639369), [MTFL](https://ieeexplore.ieee.org/abstract/document/9492755), [DS-FL](https://ieeexplore.ieee.org/abstract/document/9392310), [FD](https://arxiv.org/abs/1811.11479)
 - **Derivative Works:**
   - Communication: [ALU](https://arxiv.org/abs/2312.04166)
-  - Poisoning Attack: [FDLA](https://arxiv.org/abs/2401.03685), [PCFDLA](https://arxiv.org/abs/2407.18039)
+  - Poisoning Attack: [FDLA](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_22), [PCFDLA](https://arxiv.org/abs/2407.18039)
   - Generalization: [FedCache 2.0](https://arxiv.org/abs/2405.13378)
   - Security: Coming Soon......
   - Application: [FedCache 2.0](https://arxiv.org/abs/2405.13378)
@@ -181,10 +181,12 @@ Noting that Pytorch Dataloader in this FedCache implementation should be set as:
 
 [Agglomerative Federated Learning: Empowering Larger Model Training via End-Edge-Cloud Collaboration.](https://arxiv.org/abs/2312.11489) *IEEE International Conference on Computer Communications (INFOCOM).* 2024
 
-[Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation.](https://dl.acm.org/doi/10.1145/3639369) *ACM Transactions on Intelligent Systems and Technology (TIST)*. 2024
+[Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation.](https://dl.acm.org/doi/10.1145/3639369) *ACM Transactions on Intelligent Systems and Technology (TIST)*. 2024.
 
-[Privacy-Enhanced Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems.](https://arxiv.org/abs/2404.10255) *arXiv preprint arXiv:2404.10255*. 2024
+[FedCache 2.0: Exploiting the Potential of Distilled Data in Knowledge Cache-driven Federated Learning.](https://arxiv.org/abs/2405.13378) *arXiv preprint arXiv:2405.13378*. 2024.
 
-[Federated Class-Incremental Learning with New-Class Augmented Self-Distillation.](https://arxiv.org/abs/2401.00622) *arXiv preprint arXiv:2401.00622.* 2024
+[Privacy-Enhanced Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems.](https://arxiv.org/abs/2404.10255) *arXiv preprint arXiv:2404.10255*. 2024.
 
-[Knowledge Distillation in Federated Edge Learning: A Survey.](https://arxiv.org/abs/2301.05849) *arXiv preprint arXiv:2301.05849.* 2023
+[Federated Class-Incremental Learning with New-Class Augmented Self-Distillation.](https://arxiv.org/abs/2401.00622) *arXiv preprint arXiv:2401.00622.* 2024.
+
+[Knowledge Distillation in Federated Edge Learning: A Survey.](https://arxiv.org/abs/2301.05849) *arXiv preprint arXiv:2301.05849.* 2023.
