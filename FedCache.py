@@ -150,7 +150,7 @@ class FedCache_standalone_API:
                         fetched_knowledge_single=knowledge_cache.fetch_knowledge_single(label,(client_index,cur_idx))
                         knowledge_cache.set_knowledge_single(logit,label,(client_index,cur_idx))
                         cur_idx=cur_idx+1
-                        avg_knowledge_single=knowledge_avg_single(fetched_knowledge_single,[1 for _ in range(args.class_num)])
+                        avg_knowledge_single=knowledge_avg_single(fetched_knowledge_single,[1 for _ in range(args.R)])
                         teacher_knowledge.append(avg_knowledge_single.detach().cpu().numpy())
                     teacher_knowledge=torch.tensor(np.array(teacher_knowledge)).cuda()
                     loss_kd = self.criterion_KL(log_probs, teacher_knowledge/args.T)
