@@ -4,9 +4,11 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 ## News
 
-[Jul. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. [**Peak-Controlled Logits Poisoning Attack in Federated Distillation. *arXiv preprint arXiv:2407.18039*. 2024**](https://arxiv.org/abs/2407.18039).
+[Oct. 2024] We have released the second version of FedCache. [**FedCache 2.0: Federated Edge Learning with Knowledge Caching and Dataset Distillation. *arXiv preprint arXiv:2405.13378*. 2024**](https://arxiv.org/abs/2405.13378)
 
-[May. 2024] We have released the second version of FedCache. [**FedCache 2.0: Exploiting the Potential of Distilled Data in Knowledge Cache-driven Federated Learning (arxiv.org**)](https://arxiv.org/abs/2405.13378)
+[Sep. 2024] FedCache is highlighted in weekly communication-related papers with open-source code. [**【论文推荐】通信相关论文开源代码推荐**](https://zhuanlan.zhihu.com/p/718866953)
+
+[Jul. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. [**Peak-Controlled Logits Poisoning Attack in Federated Distillation. *arXiv preprint arXiv:2407.18039*. 2024**](https://arxiv.org/abs/2407.18039).
 
 [Apr. 2024] FedCache's remote information retrieval has been effectively advanced and implemented by PTaaS. [**Privacy-Enhanced Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems (arxiv.org)**](https://arxiv.org/abs/2404.10255).
 
@@ -45,7 +47,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
   - Communication: [ALU](https://arxiv.org/abs/2312.04166)
   - Poisoning Attack: [FDLA](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_22), [PCFDLA](https://arxiv.org/abs/2407.18039)
   - Generalization: [FedCache 2.0](https://arxiv.org/abs/2405.13378)
-  - Security: Coming Soon......
+  - Security: PPVFD
   - Application: [FedCache 2.0](https://arxiv.org/abs/2405.13378)
   - Robustness: TBD
   - Fairness: TBD
@@ -183,7 +185,7 @@ Noting that Pytorch Dataloader in this FedCache implementation should be set as:
 
 [Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation.](https://dl.acm.org/doi/10.1145/3639369) *ACM Transactions on Intelligent Systems and Technology (TIST)*. 2024.
 
-[FedCache 2.0: Exploiting the Potential of Distilled Data in Knowledge Cache-driven Federated Learning.](https://arxiv.org/abs/2405.13378) *arXiv preprint arXiv:2405.13378*. 2024.
+[FedCache 2.0: Federated Edge Learning with Knowledge Caching and Dataset Distillation.](https://arxiv.org/abs/2405.13378) *arXiv preprint arXiv:2405.13378*. 2024.
 
 [Privacy-Enhanced Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems.](https://arxiv.org/abs/2404.10255) *arXiv preprint arXiv:2404.10255*. 2024.
 
