@@ -6,7 +6,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 (as of Sep. 2024 in IEEE Xplore)
 
-## News （Up to Oct. 2024）
+## News (Up to Oct. 2024)
 
 [Oct. 2024] FedCache is featured on SEUUNiS. [**高水平论文分享 FedCache：基于知识缓存的个性化边缘智能联邦学习架构**](https://mp.weixin.qq.com/s?search_click_id=16783038718931665710-1735734419981-9907432812&__biz=Mzg2NTc2NTQ2NQ==&mid=2247486292&idx=1&sn=6df9a26aaa857acb789618198a6f82b2&chksm=cf490e7e442034f5d12d4c1808f87622effddb6dc0600e5b6c6d76eec4d25b3156237bd950fe&scene=7&subscene=10000&sessionid=1735733096&clicktime=1735734419&enterid=1735734419&ascene=65&fasttmpl_type=0&fasttmpl_fullversion=7538861-zh_CN-zip&fasttmpl_flag=0&realreporttime=1735734420010&devicetype=android-34&version=28003653&nettype=3gnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CX&exportkey=n_ChQIAhIQaHPVI%2F4K4R4FxEUrCrnNWhLiAQIE97dBBAEAAAAAACkrBu8Xb2AAAAAOpnltbLcz9gKNyK89dVj0PrtIfQW9cCuVpm3S0zeJEjTuHgJgpxXB7%2FfTxDj4cS63SqZ4o3TiPGqTjPRiuHTDQY%2FdD4DntRObmWjRbeYhafEDr6rJ%2FN8mB0b7IW%2F4Fi%2F904vOjbIzbdmdQfoG6Bg5xZv1bLhRqO%2Ff%2BnebHH2sjjaIT5mQoNYLzQconHq05G6ZsgQHZBkSeeMuIPUe%2BCJ1K%2BoPr4%2F7VfF2dyz7bEn4L%2FWkZpsdSf%2FwpiSjfoFn%2BL%2BYcF2T7aTiZasQcTA%3D&pass_ticket=z75QxE8wg13zkoEUnaOm6YVSHGzbm3FL5F6Jl3woymBxvekSd8NkwBrqeUmYTWkT&wx_header=3)
 
