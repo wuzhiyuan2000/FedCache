@@ -6,42 +6,6 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 (as of Sep. 2024 in IEEE Xplore)
 
-## News (Up to Oct. 2024)
-
-[Oct. 2024] FedCache is featured on SEUUNiS. [**高水平论文分享 FedCache：基于知识缓存的个性化边缘智能联邦学习架构**](https://mp.weixin.qq.com/s?search_click_id=16783038718931665710-1735734419981-9907432812&__biz=Mzg2NTc2NTQ2NQ==&mid=2247486292&idx=1&sn=6df9a26aaa857acb789618198a6f82b2&chksm=cf490e7e442034f5d12d4c1808f87622effddb6dc0600e5b6c6d76eec4d25b3156237bd950fe&scene=7&subscene=10000&sessionid=1735733096&clicktime=1735734419&enterid=1735734419&ascene=65&fasttmpl_type=0&fasttmpl_fullversion=7538861-zh_CN-zip&fasttmpl_flag=0&realreporttime=1735734420010&devicetype=android-34&version=28003653&nettype=3gnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CX&exportkey=n_ChQIAhIQaHPVI%2F4K4R4FxEUrCrnNWhLiAQIE97dBBAEAAAAAACkrBu8Xb2AAAAAOpnltbLcz9gKNyK89dVj0PrtIfQW9cCuVpm3S0zeJEjTuHgJgpxXB7%2FfTxDj4cS63SqZ4o3TiPGqTjPRiuHTDQY%2FdD4DntRObmWjRbeYhafEDr6rJ%2FN8mB0b7IW%2F4Fi%2F904vOjbIzbdmdQfoG6Bg5xZv1bLhRqO%2Ff%2BnebHH2sjjaIT5mQoNYLzQconHq05G6ZsgQHZBkSeeMuIPUe%2BCJ1K%2BoPr4%2F7VfF2dyz7bEn4L%2FWkZpsdSf%2FwpiSjfoFn%2BL%2BYcF2T7aTiZasQcTA%3D&pass_ticket=z75QxE8wg13zkoEUnaOm6YVSHGzbm3FL5F6Jl3woymBxvekSd8NkwBrqeUmYTWkT&wx_header=3)
-
-[Oct. 2024] We have released the second version of FedCache. [**FedCache 2.0: Federated Edge Learning with Knowledge Caching and Dataset Distillation. *arXiv preprint arXiv:2405.13378*. 2024**](https://arxiv.org/abs/2405.13378)
-
-[Oct. 2024] FedCache is selected as **Top 15 Popular Articles in IEEE Xplore** (As of Sep. 2024 within TMC2024).
-
-[Sep. 2024] FedCache is highlighted in weekly communication-related papers with open-source code. [**【论文推荐】通信相关论文开源代码推荐**](https://zhuanlan.zhihu.com/p/718866953)
-
-[Jul. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. [**Peak-Controlled Logits Poisoning Attack in Federated Distillation. *arXiv preprint arXiv:2407.18039*. 2024**](https://arxiv.org/abs/2407.18039).
-
-[Apr. 2024] FedCache's remote information retrieval has been effectively advanced and implemented by PTaaS. [**Privacy-Enhanced Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems (arxiv.org)**](https://arxiv.org/abs/2404.10255).
-
-[Mar. 2024] FedCache is featured by Tencent. [**机器人再度大幅进化！阿西莫夫三法则还有效吗？(Robots are Evolving Dramatically Again! Is Asimov's  "Three Laws of Robotics" Still Valid?)**](https://new.qq.com/rain/a/20240304A07LGW00).
-
-[Mar. 2024] I was invited to give a talk for Network System and Machine Learning Group, School of Computer Science, Peking University. **[面向个性化边缘智能的缓存驱动联邦学习: 研究进展与开放性问题 (Cache-driven Federated Learning for Personalized Edge Intelligence: Research Progress and Open Problems)]()**.
-
-[Mar. 2024] FedCache is featured by NGUI. [**缓存驱动联邦学习架构赋能个性化边缘智能 (Cache-Driven Federated Learning Architecture Energizes Personalized Edge Intelligence)**](https://www.ngui.cc/article/show-1910217.html?action=onClick).
-
-[Mar. 2024] FedCache is included by the first survey investigating the application of knowledge distillation in federated edge learning. [**Knowledge Distillation in Federated Edge Learning: A Survey (arxiv.org)**](https://arxiv.org/abs/2301.05849).
-
-[Feb. 2024] FedCache is featured on Phoenix Tech.  [**缓存驱动联邦学习架构来了！专为个性化边缘智能打造 (The Cache-Driven Federated Learning Architecture is Coming! Built for Personalized Edge Intelligence)**](https://tech.ifeng.com/c/8XWFF2U3YWJ).
-
-[Feb. 2024] FedCache is accepted by *IEEE Transactions on Mobile Computing (TMC)*. [**FedCache: A Knowledge Cache-Driven Federated Learning Architecture for Personalized Edge Intelligence | IEEE Journals & Magazine | IEEE Xplore**](https://ieeexplore.ieee.org/document/10420495)
-
-[Jan. 2024] One follow-up paper examines the impact of logits poisoning attack on FedCache. [**Logits Poisoning Attack in Federated Distillation. *International Conference on Knowledge Science, Engineering and Management (KSEM)*. 2024**](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_22).
-
-[Dec. 2023] We discover a Chinese blog that interprets FedCache on CSDN. [**缓存驱动的联邦学习架构FedCache (FedCache: Cache-Driven Federated Learning Architecture)**](https://blog.csdn.net/weixin_51306020/article/details/134983174).
-
-[Dec. 2023] One follow-up paper confirms the further potential of FedCache for enhanced communication efficiency by accumulating local updates. [**Improving Communication Efficiency of Federated Distillation via Accumulating Local Updates (arxiv.org)**](https://arxiv.org/abs/2312.04166).
-
-[Aug. 2023] FedCache is featured by Netease. [**AI在量子计算中的研究进展 (Research Progress of AI in Quantum Computing)**](https://www.163.com/dy/article/ICBT597O0553CPGV.html).
-
-[Aug. 2023] FedCache is released on arxiv. [**FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence (arxiv.org)**](https://arxiv.org/abs/2308.07816).
-
 ## Highlight
 
 - FedCache is a **device** **friendly, scalable and effective** personalized federated learning architecture tailored for edge computing. 
