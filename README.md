@@ -57,7 +57,7 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
   - Personalization Performance: [FedCache 2.0](https://arxiv.org/abs/2405.13378), [HKS](https://arxiv.org/abs/2504.03505)
   - Privacy Preservation: [HKS](https://arxiv.org/abs/2504.03505), SVAFD (Submitted)
   - Application Scenario: [FedCache 2.0](https://arxiv.org/abs/2405.13378)
-  - Communication Efficiency: [ALU](https://arxiv.org/abs/2312.04166)
+  - Communication Efficiency: [SCARLET](https://arxiv.org/abs/2504.19602), [ALU](https://arxiv.org/abs/2312.04166)
   - Data Incrementation: FedCTR (Submitted)
 
 **If you have any ideas or questions regarding to FedCache, please feel free to contact wuzhiyuan22s@ict.ac.cn.**
