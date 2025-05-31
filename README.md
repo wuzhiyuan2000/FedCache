@@ -16,13 +16,15 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 - **Foundation Works:** [FedICT](https://ieeexplore.ieee.org/abstract/document/10163770/), [FedDKC](https://dl.acm.org/doi/10.1145/3639369), [MTFL](https://ieeexplore.ieee.org/abstract/document/9492755), [DS-FL](https://ieeexplore.ieee.org/abstract/document/9392310), [FD](https://arxiv.org/abs/1811.11479)
 - **Derivative Works:**
-  - Poisoning Attack: [FDLA](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_22), [PCFDLA](https://arxiv.org/abs/2407.18039)
+  - Poisoning Attack: [FDLA](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_22), [PCFDLA](https://arxiv.org/abs/2407.18039), FDSA (Submitted)
   - Generalization Performance: [HKS](https://arxiv.org/abs/2504.03505)
   - Personalization Performance: [FedCache 2.0](https://arxiv.org/abs/2405.13378), [HKS](https://arxiv.org/abs/2504.03505)
   - Privacy Preservation: [HKS](https://arxiv.org/abs/2504.03505), [SVAFD](https://arxiv.org/abs/2505.13319)
   - Application Scenario: [FedCache 2.0](https://arxiv.org/abs/2405.13378)
   - Communication Efficiency: [SCARLET](https://arxiv.org/abs/2504.19602), [ALU](https://arxiv.org/abs/2312.04166)
   - Data Incrementation: FedCTR (Submitted)
+  - FedCache+LLM: TBD
+  - FedCache+Topology Organization: TBD
 
 **If you have any ideas or questions regarding to FedCache, please feel free to contact wuzhiyuan22s@ict.ac.cn.**
 
