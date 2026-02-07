@@ -16,11 +16,11 @@ This repository is the official Pytorch implementation DEMO of [**FedCache: A Kn
 
 - **Foundation Works:** [FedICT](https://ieeexplore.ieee.org/abstract/document/10163770/), [FedDKC](https://dl.acm.org/doi/10.1145/3639369), [MTFL](https://ieeexplore.ieee.org/abstract/document/9492755), [DS-FL](https://ieeexplore.ieee.org/abstract/document/9392310), [FD](https://arxiv.org/abs/1811.11479)
 - **Derivative Works:**
-  - Poisoning Attack: [FDLA](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_22), [PCFDLA](https://arxiv.org/abs/2407.18039), FDSA (Submitted)
+  - Poisoning Attack: [FDLA](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_22), [PCFDLA](https://arxiv.org/abs/2407.18039), [FDSA](https://www.computer.org/csdl/proceedings-article/trustcom/2025/653200b765/2dMlkfCGdJS)
   - Generalization Performance: [HKS](https://arxiv.org/abs/2504.03505)
   - Personalization Performance: [FedCache 2.0](https://arxiv.org/abs/2405.13378), [HKS](https://arxiv.org/abs/2504.03505)
   - Privacy Preservation: [HKS](https://arxiv.org/abs/2504.03505), [SVAFD](https://arxiv.org/abs/2505.13319)
-  - Application Scenario: [FedCache 2.0](https://arxiv.org/abs/2405.13378)
+  - Application Scenario: [FedCache 2.0](https://arxiv.org/abs/2405.13378), [FDVEC](https://arxiv.org/pdf/2512.09378)
   - Communication Efficiency: [SCARLET](https://arxiv.org/abs/2504.19602), [ALU](https://arxiv.org/abs/2312.04166)
   - Data Incrementation: FedCTR (Submitted)
   - FedCache+LLM: TBD
@@ -157,9 +157,3 @@ Noting that Pytorch Dataloader in this FedCache implementation should be set as:
 [Agglomerative Federated Learning: Empowering Larger Model Training via End-Edge-Cloud Collaboration.](https://arxiv.org/abs/2312.11489) *IEEE International Conference on Computer Communications (INFOCOM).* 2024
 
 [Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation.](https://dl.acm.org/doi/10.1145/3639369) *ACM Transactions on Intelligent Systems and Technology (TIST)*. 2024.
-
-[FedCache 2.0: Federated Edge Learning with Knowledge Caching and Dataset Distillation.](https://arxiv.org/abs/2405.13378) *arXiv preprint arXiv:2405.13378*. 2024.
-
-[Federated Class-Incremental Learning with New-Class Augmented Self-Distillation.](https://arxiv.org/abs/2401.00622) *arXiv preprint arXiv:2401.00622.* 2024.
-
-[Knowledge Distillation in Federated Edge Learning: A Survey.](https://arxiv.org/abs/2301.05849) *arXiv preprint arXiv:2301.05849.* 2023.
